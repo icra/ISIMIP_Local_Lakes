@@ -1,6 +1,5 @@
 # ISIMIP_Local_Lakes
 
-<<<<<<< HEAD
 Local lakes after data closing (Nov 2022):
 
 Allequash       EsthwaiteWater   Mozhaysk           Sunapee
