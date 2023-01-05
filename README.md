@@ -1,5 +1,7 @@
 # ISIMIP_Local_Lakes
 
+This is the database for ISIMIP3 local lakes simulations. The folders contain water temperature data profiles and hypsometry. Which will be used for calibration by the modellers for each lake.
+
 Local lakes after data closing (Nov 2022):
 
 Allequash <br />       EsthwaiteWater <br />   Mozhaysk   <br />         Sunapee <br />
@@ -22,7 +24,3 @@ Eagle    <br />        LowerLakeZurich <br />  Scharmutzel <br />
 Ekoln    <br />        Mendota     <br />       Sparkling <br />
 
 Lakes added in later on: <br />
-
-
-=======
-This is the database for ISIMIP3 local lakes simulations. The folders contain water temperature data profiles and hypsometry. Which will be used for calibration by the modellers for each lake.
