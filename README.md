@@ -2,8 +2,8 @@
 
 Local lakes after data closing (Nov 2022):
 
-Allequash       EsthwaiteWater   Mozhaysk           Sunapee
-Alqueva         FallingCreek     MtBold             Tahoe
+Allequash <br />       EsthwaiteWater <br />   Mozhaysk   <br />         Sunapee <br />
+Alqueva     <br />     FallingCreek  <br />    MtBold       <br />       Tahoe
 Annie           Feeagh           Muggelsee          Taihu
 Arendsee        Fish             Murten             Tarawera
 Argyle          GreatPond        Neuchatel          Thun
