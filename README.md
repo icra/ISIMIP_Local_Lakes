@@ -3,25 +3,25 @@
 Local lakes after data closing (Nov 2022):
 
 Allequash <br />       EsthwaiteWater <br />   Mozhaysk   <br />         Sunapee <br />
-Alqueva     <br />     FallingCreek  <br />    MtBold       <br />       Tahoe
-Annie           Feeagh           Muggelsee          Taihu
-Arendsee        Fish             Murten             Tarawera
-Argyle          GreatPond        Neuchatel          Thun
-Biel            Green            Ngoring            Toolik
-BigMuskellunge  Harp             NohipaloMustjarv   Trout
-BlackOak        Hassel           NohipaloValgejarv  TroutBog
-Bosumtwi        Hulun            Okauchee           TwoSisters
-Bryrup          Kilpisjarvi      Paajarvi           Vendyurskoe
-BurleyGriffin   Kinneret         Rappbode           Vortsjarv
-Chao            Kivu             Rappbodep          Washington
-Crystal         Klicava          Rimov              Windermere
-CrystalBog      Kuivajarvi       Rotorua            Wingra
-Delavan         Langtjern        Sammamish          Zlutice
-Dickie          Laramie          Sau                Zurich
-Eagle           LowerLakeZurich  Scharmutzel
-Ekoln           Mendota          Sparkling
+Alqueva     <br />     FallingCreek  <br />    MtBold       <br />       Tahoe <br />
+Annie     <br />       Feeagh    <br />        Muggelsee    <br />       Taihu <br />
+Arendsee    <br />     Fish      <br />        Murten       <br />       Tarawera <br />
+Argyle    <br />       GreatPond    <br />     Neuchatel    <br />       Thun <br />
+Biel     <br />        Green    <br />         Ngoring      <br />       Toolik <br />
+BigMuskellunge <br />  Harp     <br />         NohipaloMustjarv  <br /> <br />  Trout <br />
+BlackOak   <br />      Hassel   <br />         NohipaloValgejarv  <br /> TroutBog <br />
+Bosumtwi  <br />       Hulun     <br />        Okauchee    <br />        TwoSisters <br />
+Bryrup   <br />        Kilpisjarvi <br />      Paajarvi    <br />        Vendyurskoe <br />
+BurleyGriffin   <br /> Kinneret   <br />       Rappbode    <br />        Vortsjarv <br />
+Chao    <br />         Kivu    <br />          Rappbodep    <br />       Washington <br />
+Crystal     <br />     Klicava    <br />       Rimov        <br />       Windermere <br />
+CrystalBog   <br />    Kuivajarvi   <br />     Rotorua      <br />       Wingra <br />
+Delavan  <br />        Langtjern    <br />     Sammamish     <br />      Zlutice <br />
+Dickie    <br />       Laramie     <br />      Sau         <br />        Zurich <br />
+Eagle    <br />        LowerLakeZurich <br />  Scharmutzel <br />
+Ekoln    <br />        Mendota     <br />       Sparkling <br />
 
-Lakes added in later on:
+Lakes added in later on: <br />
 
 
 =======
